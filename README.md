@@ -81,7 +81,8 @@ Un SAP est un point de connexion entre deux couches du modèle OSI qui permet à
 Vous pouvez observez le protocole DHCP sur votre site **{site}.pythonanywhere.com/dhcp**  
   
 **Exercice 2 : Créer une image montrant l’encapsulation des couches suivantes**    
-_Collez votre image ici_ 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ca020ad1-a5e2-4f52-ab99-08af67029d26" />
+
   
 --------------------------------------------------------------------
 🧠 Troubleshooting :
